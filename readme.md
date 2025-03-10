@@ -48,7 +48,7 @@ if target system has GPU enabled graphics card, please refer to these support to
    ```bash
    code notebook
    ``` 
-   #requires  `ipykernel` to run jupyter-notebook file in Visual Studio code
+   ### requires  `ipykernel` to run jupyter-notebook file in Visual Studio code
 
 2. **Open the notebook:**
    Navigate to the Jupyter Notebook interface in your web browser and open the `ChineseHerbs_CNN.ipynb` file.
