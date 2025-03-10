@@ -4,12 +4,12 @@ The `Chinese Herb Dataset (CNH-98)` is a collection designed to aid in the class
 
 ## Setup Environment
 
-## Explore CUDA:
+**Explore CUDA:**
 
 if target system has GPU enabled graphics card, please refer to these support to train model quicker
 
-- - https://anaconda.org/anaconda/cudnn | https://developer.nvidia.com/cudnn
-- - https://developer.nvidia.com/cuda-gpus
+- https://anaconda.org/anaconda/cudnn | https://developer.nvidia.com/cudnn
+- https://developer.nvidia.com/cuda-gpus
 
 1. **Clone the repository:**
 
