@@ -4,6 +4,13 @@ The `Chinese Herb Dataset (CNH-98)` is a collection designed to aid in the class
 
 ## Setup Environment
 
+## Explore CUDA:
+
+if target system has GPU enabled graphics card, please refer to these support to train model quicker
+
+- - https://anaconda.org/anaconda/cudnn | https://developer.nvidia.com/cudnn
+- - https://developer.nvidia.com/cuda-gpus
+
 1. **Clone the repository:**
 
    ```bash
@@ -17,12 +24,13 @@ The `Chinese Herb Dataset (CNH-98)` is a collection designed to aid in the class
    python3 -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
+
    **Ananconda Support:**
+
    ```bash
    conda create -n tf-gpu python==3.8 -y
    conda activate tf-gpu
    ```
-
 
 3. **Install the required packages:**
    ```bash
